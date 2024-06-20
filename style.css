@@ -23,5 +23,18 @@
 
 .container h1 img{
   width: 60px;
+}
 
+.container button img{
+  width: 25px;
+  margin-right: 8px;
+}
+
+.container button {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(#9418fd, #571094);
+  color:#fff;
+  font-size: 16px;
+  outline: 0;
 }
